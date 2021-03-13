@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1078"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="InfinityMirrorOctahedron14LEDsPerSide.svg">
+  <defs
+     id="defs1072" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49932511"
+     inkscape:cx="287.39188"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1147"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1075">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       d="m 95.799921,256.14251 3.11765,-4.40903 -2.44947,-1.73218 -5.63226,7.96496 c 0,0 -2.47814,-1.25522 -3.56955,-1.78438 -0.004,-0.002 -0.93386,-2.50829 0.57508,-2.53017 l 1.53704,0.40537 2.16016,-2.97609 -0.87339,-0.81171 c 4.34179,-6.95047 7.99236,-5.7096 13.485069,-5.98439 l 5e-5,1e-5 -1e-5,5.85276 h 2.99983 v -5.85275 l 4e-5,-1e-5 c 6.97761,0.18199 8.58662,-0.87303 13.48527,5.98464 l -0.87342,0.81169 2.16017,2.9761 1.53705,-0.40536 c 1.50895,0.0219 0.57908,2.52816 0.57509,2.53016 -1.09143,0.52915 -3.56956,1.78437 -3.56956,1.78437 l -5.63241,-7.96521 -2.44949,1.7322 3.11765,4.40903 z"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path12143" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path12145"
+       d="m 102.23354,230.5595 c -1.95752,0.3694 -6.721389,-1.66706 -11.527239,5.93306 l 0.87335,0.81182 -2.16013,2.97604 -1.53734,-0.40513 c -1.50895,0.0219 -0.57919,2.52806 -0.5752,2.53007 1.09141,0.52917 3.56981,1.78438 3.56981,1.78438 l 5.632,-7.96459 2.44943,1.7322 -3.11763,4.40904 h 8.350419 v -6.00487 l 2.99977,-1e-5 2e-5,6.00488 h 8.3504 l -3.11764,-4.40904 2.44947,-1.7322 5.6321,7.96479 c 0,0 2.4784,-1.25522 3.56983,-1.78437 0.004,-0.002 0.93373,-2.50817 -0.57517,-2.53007 l -1.53738,0.40512 -2.16013,-2.97602 0.87334,-0.81184 c -4.8058,-7.60011 -9.5698,-5.56384 -11.52733,-5.93325 z"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g12353"
+       transform="rotate(120,-274.33821,-96.91742)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11032-1"
+         d="m -293.77846,-598.62959 -6.54997,11.34557 1.73341,1.00042 -1.7503,3.03186 -1.73288,-1.00095 -1.72186,2.98275 1.73288,1.00045 -1.74977,3.03133 -1.73288,-1.00045 -1.72238,2.98225 1.73291,1.00098 -1.74977,3.03133 -1.73288,-1.00045 -1.72186,2.98329 1.73235,1.00045 -1.75027,3.03083 -1.73238,-1.00045 -1.72185,2.98328 1.73185,1.00045 -1.74977,3.0303 -1.73235,-0.99992 -1.72186,2.98275 1.73235,1.00045 -1.75027,3.0308 -1.73185,-0.99992 -1.72238,2.98278 1.73237,1.00043 -1.75029,3.03082 -1.73185,-0.99992 -1.72186,2.98379 1.73135,0.99942 -1.74977,3.03133 -1.73185,-1.00043 -1.72185,2.98329 1.73132,0.99939 -1.75028,3.03186 -1.73134,-1.00045 -1.72186,2.98381 1.73135,0.99889 -1.74977,3.03133 -1.73135,-0.99992 -1.72185,2.98328 1.73081,0.99942 -1.74974,3.03133 -1.73134,-0.99992 -1.72186,2.98379 1.73082,0.99942 -1.75027,3.03082 -1.73032,-0.99994 -1.72238,2.98328 1.73081,0.99942 -1.75027,3.03083 -1.73081,-0.99839 -1.72136,2.98278 1.73032,0.99889 -1.75027,3.0308 -1.73032,-0.99889 -6.55206,11.35023 0.11369,0.19637 6.75516,-3.90003 1.49963,2.59778 -6.75463,3.90001 0.11369,0.19691 h 13.08759 v -1.99942 h 3.50004 v 1.99942 h 3.44424 v -1.99942 h 3.50004 v 1.99942 h 3.44424 v -1.99942 h 3.50004 v 1.99942 h 3.44475 v -1.99942 h 3.50004 v 1.99942 h 3.44424 v -1.99942 h 3.50004 v 1.99942 h 3.44424 v -1.99942 h 3.50004 v 1.99942 h 3.44424 v -1.99942 h 3.50004 v 1.99942 l 3.44474,5e-4 v -1.99992 h 3.50007 v 1.99992 h 3.44421 v -1.99992 h 3.50007 v 1.99992 h 3.44421 v -1.99992 h 3.50004 v 1.99992 h 3.44425 v -1.99992 h 3.50004 v 1.99992 h 3.44475 v -1.99992 h 3.49953 v 1.99992 h 3.44476 v -1.99992 h 3.50004 v 1.99992 h 3.44423 v -1.99992 h 3.50005 v 1.99992 h 13.05553 l 0.12971,-0.22479 -6.75514,-3.90001 1.50016,-2.59779 6.75515,3.90054 0.1297,-0.22479 -6.52828,-11.30837 -1.73096,0.999 -1.74976,-3.03136 1.73044,-0.99897 -1.72186,-2.98275 -1.73096,0.99897 -1.74976,-3.03083 1.73096,-0.9995 -1.72238,-2.98275 -1.73096,0.99949 -1.74976,-3.03135 1.73096,-0.99948 -1.72238,-2.98328 -1.73096,0.9995 -1.74976,-3.03083 1.73096,-0.9995 -1.72186,-2.98328 -1.73148,1 -1.75028,-3.03133 1.73148,-1 -1.72186,-2.98275 -1.73147,1 -1.75029,-3.03136 1.73148,-0.99947 -1.72134,-2.98329 -1.73199,1 -1.75028,-3.03082 1.73199,-1 -1.72238,-2.98329 -1.73199,1 -1.74976,-3.0308 1.73199,-1.00003 -1.72186,-2.98328 -1.73251,1.00003 -1.74976,-3.03083 1.7325,-1.00053 -1.72237,-2.98275 -1.73251,1 -1.74977,-3.03083 1.73251,-1.00053 -1.72185,-2.98276 -1.73302,1.00054 -1.74977,-3.03136 1.73249,-1.00051 -1.72185,-2.98278 -1.73302,1.00053 -1.74977,-3.03082 1.73252,-1.00051 -1.72239,-2.98328 -1.73249,1.0005 -1.7503,-3.03133 1.73355,-1.00053 -1.72238,-2.98275 -1.73302,1.00053 -1.75027,-3.03136 1.73355,-1.0005 -6.54225,-11.33213 h -0.23204 v 7.80004 h -2.99982 v -7.80004 z m -1.55131,12.51757 h 0.34312 c 0.15428,-6e-5 0.27802,0.12427 0.27802,0.27855 l 5.3e-4,2.34352 c 8e-5,0.0385 -0.007,0.0752 -0.0217,0.10853 -0.0422,0.1 -0.14113,0.16941 -0.25683,0.16949 h -0.34312 c -0.11567,0 -0.21468,-0.0695 -0.25683,-0.16949 -0.0141,-0.0333 -0.0217,-0.0705 -0.0217,-0.10906 v -2.34249 c 0,-0.1542 0.12428,-0.27905 0.27855,-0.27905 z m 6.21771,0 0.34364,5.2e-4 c 0.1542,0 0.27755,0.12375 0.2775,0.27803 l 0.001,2.34352 c 8e-5,0.0385 -0.008,0.0751 -0.0222,0.10853 -0.0421,0.1 -0.14113,0.16944 -0.25684,0.16949 h -0.34311 c -0.11567,0 -0.21423,-0.07 -0.25633,-0.17002 -0.014,-0.0334 -0.0217,-0.0699 -0.0217,-0.10853 l -5.3e-4,-2.34249 c 0,-0.1542 0.12427,-0.27905 0.27855,-0.27905 z m 46.4385,82.17328 c 0.0359,0.005 0.0715,0.0164 0.10491,0.0357 l 2.02881,1.17099 c 0.13354,0.0771 0.17999,0.24672 0.10284,0.38034 l -0.17157,0.29712 c -0.0771,0.13354 -0.2467,0.179 -0.38034,0.10182 l -2.02933,-1.17153 c -0.0334,-0.0193 -0.0614,-0.0446 -0.0832,-0.0734 -0.0655,-0.0865 -0.0764,-0.2068 -0.0186,-0.30697 l 0.17156,-0.29713 c 0.0578,-0.10017 0.16731,-0.1506 0.27492,-0.13695 z m -98.79086,0.03 c 0.10763,-0.0136 0.21706,0.0367 0.2749,0.13695 l 0.17158,0.29765 c 0.0579,0.10017 0.0464,0.22045 -0.0191,0.30695 -0.0219,0.0288 -0.0493,0.054 -0.0827,0.0734 l -2.02932,1.1715 c -0.13354,0.0771 -0.30319,0.0313 -0.38034,-0.10232 l -0.17156,-0.29715 c -0.0771,-0.13354 -0.0318,-0.30319 0.10179,-0.38034 l 2.02985,-1.17097 c 0.0334,-0.0193 0.069,-0.0311 0.10491,-0.0357 z m 95.68201,5.35471 c 0.0359,0.005 0.0715,0.0164 0.1049,0.0356 l 2.02882,1.171 c 0.13353,0.0771 0.1794,0.24677 0.10232,0.38034 l -0.17157,0.29715 c -0.0771,0.13367 -0.24678,0.17939 -0.38034,0.10231 l -2.02881,-1.17152 c -0.0334,-0.0193 -0.0619,-0.0445 -0.0837,-0.0734 -0.0655,-0.0865 -0.0764,-0.20727 -0.0186,-0.30747 l 0.17156,-0.29713 c 0.0578,-0.10017 0.1677,-0.15055 0.27544,-0.13695 z m -92.57368,0.0305 c 0.10771,-0.0135 0.21759,0.0372 0.27543,0.13746 l 0.17158,0.29715 c 0.0578,0.10012 0.0469,0.21995 -0.0186,0.30644 -0.0218,0.0289 -0.0503,0.0542 -0.0837,0.0734 l -2.02882,1.17152 c -0.13354,0.0771 -0.30321,0.0323 -0.38034,-0.10128 l -0.17155,-0.29716 c -0.0771,-0.13353 -0.0317,-0.30371 0.10178,-0.38084 l 2.02933,-1.17152 c 0.0334,-0.0193 0.069,-0.0306 0.10491,-0.0351 z"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.09999996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscssccccccccscccsccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="106.12759"
+       y="154.46712"
+       id="text1639"><tspan
+         sodipodi:role="line"
+         x="106.12759"
+         y="154.46712"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1645">3mm two-way mirror acrylic sides</tspan><tspan
+         sodipodi:role="line"
+         x="106.12759"
+         y="165.05045"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1649">cut x 8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="108.43778"
+       y="270.88309"
+       id="text1643"><tspan
+         sodipodi:role="line"
+         id="tspan1641"
+         x="108.43778"
+         y="270.88309"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">1/8&quot; clear acrylic corner connectors</tspan><tspan
+         sodipodi:role="line"
+         x="108.43778"
+         y="281.46643"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1651">cut each x 6</tspan></text>
+  </g>
+</svg>
