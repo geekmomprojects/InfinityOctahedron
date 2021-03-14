@@ -5,7 +5,7 @@ Design files for Infinity Mirror Octahedron shown above. The design files were c
 
 <img src="./Images/Octahedron1.JPG" width="400px">
 
-Cut **8** of the triangular side pieces from <a href="https://www.amazon.com/gp/product/B01G4MQ5OW">3mm two-way mirrored acrylic</a> and **6** each of the two connector pieces (inner connector is pink, outer connector is blue)  from 1/8" clear acrylic.
+Cut **8** of the triangular side pieces from <a href="https://www.amazon.com/gp/product/B01G4MQ5OW">3mm two-way mirrored acrylic</a> and **6** each of the two connector pieces (inner connector depicted pink, outer connector depicted blue)  from 1/8" clear acrylic.
 
 <img src="./Images/Octahedron2.JPG" width="400px">
 
@@ -17,4 +17,4 @@ Add the remainging four pieces by slotting them together with the outer connecto
 
 <img src="./Images/Octahedron4.JPG" width="400px">
   
-Once the octahedron is assembled, you can wrap the LED strip segments around the outside edges of the octahedron so that each LED is nestled into its own cutout. I used small pieces of <a href="https://www.amazon.com/Glue-Dots-Line-Clear-Lines/dp/B00NGAZURO">glue dots lines</a> to hold the strips in place. You should be able to solder together all strips in a single sequence.
+Once the octahedron is assembled, you can wrap the LED strip segments around the outside edges of the octahedron so that each LED is nestled into its own cutout. I used small pieces of <a href="https://www.amazon.com/Glue-Dots-Line-Clear-Lines/dp/B00NGAZURO">glue dots lines</a> to hold the strips in place. You should be able to solder together all strips in a single sequence that wraps exactly once around every edge of the octahedron.
