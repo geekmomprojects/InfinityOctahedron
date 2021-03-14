@@ -11,7 +11,7 @@ Cut **8** of the triangular side pieces from <a href="https://www.amazon.com/gp/
 
 Assemble four of the triangle pieces as shown by slotting them together with the six inner connectors. Secure the inner connectors loosely (you will tighten them later) with craft wire or other thin wire running through the holes in the edge and twisted around the connectors legs.
 
-<img src="./Images/Octahedron3.JPG" width="400px>
+<img src="./Images/Octahedron3.JPG" width="400px">
   
 Add the remainging four pieces by slotting them together with the outer connectors and sliding the outer connectors over the inner connectors. Secure all connectors to the mirrored sides using craft wire.
 
