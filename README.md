@@ -1,7 +1,7 @@
 # Infinity Mirror Octahedron
 <a href="https://www.youtube.com/watch?v=zY7c4jWUfVQ"><img src="./Images/OctahedronOn.jpg" width="300px"></a> <img src="./Images/OctahedronOff.jpg" width="300px">
 
-Design files for Infinity Mirror Octahedron shown above. The design files were created to use 12 segments of LED strip containing 144 LEDs/m. Each segment contains 14 LEDs.
+Design files for Infinity Mirror Octahedron shown above. The design was created to use an LED strip containing 3535 sized LEDs with a pixel density of 144 LEDs/m. In the build, the strip is cut into 12 separate segments, each of which contains 14 LEDs.
 
 <img src="./Images/Octahedron1.JPG" width="400px">
 
