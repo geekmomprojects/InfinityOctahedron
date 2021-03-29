@@ -1,5 +1,5 @@
 # Infinity Mirror Octahedron - Version 2
-<a href="https://www.youtube.com/watch?v=zY7c4jWUfVQ"><img src="../../Images/OctahedronOn.jpg" width="300px"></a> <img src="../../Images/OctahedronOff.jpg" width="300px">
+<a href="https://www.youtube.com/watch?v=zY7c4jWUfVQ"><img src="../../Images/OctahedronV2On.jpg" width="300px"></a> <img src="../../Images/OctahedronV2Off.jpg" width="300px">
 
 Design files for Infinity Mirror Octahedron shown above. This version has the following differences from Version 1:
 - It has larger mirrored sizes. The size of the sides was the largest such that I could cut 8 of them from the same 12" high acrylic sheet
