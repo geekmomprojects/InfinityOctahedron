@@ -15,7 +15,7 @@ Cut **8** of the triangular side pieces from <a href="https://www.amazon.com/gp/
 
 <img src="../../Images/OctahedronV2_4.JPG" width="400px">
 
-Assemble four of the triangle pieces as shown by slotting them together with the six inner connectors. Secure the inner connectors loosely (you will tighten them later) with craft wire or other thin wire running through the holes in the edge and twisted around the connectors' legs. Make sure the twisting occurs on the outside of the octahedron. When assembling, it's best to have the mirrored face of the acrylic pieces facing the octahedron's interior, to protect it from scratches. Wearing gloves during the assembly will reduce the number of fingerprints on the mirrored surface.
+Assemble four of the triangle pieces as shown by slotting them together with the six inner connectors. Secure the inner connectors to the sides by securing 5mm or 6mm M2 sized screws through the connectors' holes. When assembling, it's best to have the mirrored face of the acrylic pieces facing the octahedron's interior, to protect it from scratches. Wearing gloves during the assembly will reduce the number of fingerprints on the mirrored surface.
 
 <img src="../../Images/OctahedronV2_3.JPG" width="400px">
   
