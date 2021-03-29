@@ -7,7 +7,7 @@ Design files for Infinity Mirror Octahedron shown above. This version has the fo
 - It uses a narrower LED strip (details below). This produces a less disrupted view of the octahedron's interior
 - The LED strip is would around all octahedron edges in a continuous line, with no soldering
 
-The design was created to use an LED strip containing 2020 sized LEDs with a pixel density of 96 LEDs/m. It is 4 mm wide. It is an unusual strip, which I purchased <a href="https://www.aliexpress.com/item/1005001827157531.html">on AliExpress</a>Because of the LED strip spacing, I was able to wrap the entire strip around the ocahedron in a continuous line without splicing it, which makes the build much easier. If you do plan to cut and solder this strip be warned that its narrowness makes it a challenge to solder.
+The design was created to use an LED strip containing 2020 sized LEDs with a pixel density of 96 LEDs/m. It is 4 mm wide. It is an unusual strip, which I purchased <a href="https://www.aliexpress.com/item/1005001827157531.html">on AliExpress</a>. Because of the LED strip spacing, I was able to wrap the entire strip around the ocahedron in a continuous line without splicing it, which makes the build much easier. If you do plan to cut and solder this strip be warned that its narrowness makes it a challenge to solder.
 
 <img src="../../Images/OctahedronV2_1.JPG" width="400px">
 
@@ -23,4 +23,4 @@ Add the remainging four pieces by slotting them together with the outer connecto
 
 <img src="../../Images/OctahedronV2_2.JPG" width="400px">
   
-Once the octahedron is assembled, you can wrap the LED strip segments around the outside edges of the octahedron so that each LED is nestled into its own cutout. I used small pieces of <a href="https://www.amazon.com/Glue-Dots-Line-Clear-Lines/dp/B00NGAZURO">glue dots lines</a> to hold the strips in place. You should be able to solder together all strips in a single sequence that wraps exactly once around every edge of the octahedron.
+Once the octahedron is assembled, you can wrap the LED strip segments around the outside edges of the octahedron so that each LED is nestled into its own cutout. I used small pieces of <a href="https://www.amazon.com/Glue-Dots-Line-Clear-Lines/dp/B00NGAZURO">glue dots lines</a> to hold the strips in place. You should be able to wind the strip in a single sequence that wraps exactly once around every edge of the octahedron. You will need to pinch the corners of the strip at the bends to crease it.
