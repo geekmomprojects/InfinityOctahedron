@@ -19,7 +19,7 @@ Assemble four of the triangle pieces as shown by slotting them together with the
 
 <img src="../../Images/OctahedronV2_3.JPG" width="400px">
   
-Add the remainging four pieces by slotting them together with the outer connectors and sliding the outer connectors over the inner connectors. Secure all connectors to the mirrored sides using craft wire.
+Add the remainging four pieces by slotting them together with the outer connectors and sliding the outer connectors over the inner connectors. Secure all connectors to the mirrored sides using M2 screws and nuts.
 
 <img src="../../Images/OctahedronV2_2.JPG" width="400px">
   
